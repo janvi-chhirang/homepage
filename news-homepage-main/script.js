@@ -1,0 +1,1 @@
+const bigImage=document.querySelector('#box-1')
